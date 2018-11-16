@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Hunting\Hunting\bin\Debug\Hunting.exe.config
+C:\Users\HP\source\repos\Hunting\Hunting\bin\Debug\Hunting.exe
+C:\Users\HP\source\repos\Hunting\Hunting\bin\Debug\Hunting.pdb
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\Hunting.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\Hunting_MarkupCompile.cache
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\Hunting_MarkupCompile.lref
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\Hunting.g.resources
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\Hunting.Properties.Resources.resources
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\Hunting.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\Hunting.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\Hunting.exe
+C:\Users\HP\source\repos\Hunting\Hunting\obj\Debug\Hunting.pdb
